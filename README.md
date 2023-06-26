@@ -1,9 +1,2 @@
 # PratikTest_1
-# first we create the local repository using github desktop.
-# then I opened the eclipse application and create the java project TestVagrant_1.
-# after that create package testVagrant.
-# and then i create class with the name of Playlist.
-# And I stared writing code inside the class.
-# when i done with writing code then run code succesfully.
-# open the github Desktop and commit the code.
-# Once commited the code then push the code github.com.
+# When I did with writing  the code I right-click and there get a pop up in this pop up I choose the Run As option and on the side of this option java Application I click on this option and the code gets to run and shows the output.
